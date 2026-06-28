@@ -17,7 +17,9 @@ Certifications & learning
 Cisco IT Support Certifications (Communication, Security, Networking, Hardware)
 Procore — Project Management & Administration
 CCNA 200-301 — in progress
+
 Reach me
+
 📧 sameerakramwork44@gmail.com
 💼 linkedin.com/in/sameer0811
 Open to remote IT support, systems administration, and M365 administrator roles with US, UK, and international teams.
