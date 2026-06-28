@@ -4,11 +4,16 @@ I help distributed teams stay running by administering their Microsoft cloud, se
 ---
 What I do
 
-Microsoft 365 administration — tenant operations, Exchange Online, licensing, user lifecycle\n
+Microsoft 365 administration — tenant operations, Exchange Online, licensing, user lifecycle
+
 Identity & access (Entra ID / Azure AD) — MFA, Conditional Access, group management
+
 Windows Server & Active Directory — user administration, DNS, DHCP, domain support
+
 Networking — VPN, Wi-Fi, TCP/IP troubleshooting across multi-site environments
+
 Automation — PowerShell for M365 and Entra ID administrative tasks
+
 This GitHub
 A working sample of how I administer and document IT environments:
 📂 /scripts — PowerShell automation for M365 / Entra ID onboarding, offboarding, and license reporting
