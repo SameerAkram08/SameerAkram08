@@ -3,7 +3,8 @@ IT Support Engineer | Microsoft 365 & Entra ID (Azure AD) Administration
 I help distributed teams stay running by administering their Microsoft cloud, securing their identities, and resolving issues fast, remotely and reliably. 3 years supporting local and US-based clients across Windows and macOS environments.
 ---
 What I do
-Microsoft 365 administration — tenant operations, Exchange Online, licensing, user lifecycle
+
+Microsoft 365 administration — tenant operations, Exchange Online, licensing, user lifecycle\n
 Identity & access (Entra ID / Azure AD) — MFA, Conditional Access, group management
 Windows Server & Active Directory — user administration, DNS, DHCP, domain support
 Networking — VPN, Wi-Fi, TCP/IP troubleshooting across multi-site environments
